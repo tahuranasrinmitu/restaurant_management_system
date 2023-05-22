@@ -1,2 +1,2 @@
-# restaurants_management_system
+# restaurant_management_system
 Restaurant Management System
